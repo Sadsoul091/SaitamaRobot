@@ -55,3 +55,7 @@ Good day!
 ## Credits 📍
 * Well, it's all in the commit history
 Feel free to open pull requests should any be missing.
+
+Want to deploy it click button below 👇
+
+[![Deploy]]
